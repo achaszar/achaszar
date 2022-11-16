@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Austin Chaszar and i am looking to become a junior software developer.
+
 <!--
 **achaszar/achaszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
