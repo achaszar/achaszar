@@ -2,6 +2,7 @@
 
 My name is Austin Chaszar and i am looking to become a junior software developer.
 
+Adding some text to this file in git kraken!
 <!--
 **achaszar/achaszar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
